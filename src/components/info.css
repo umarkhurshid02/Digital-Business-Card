@@ -1,0 +1,90 @@
+.tb{
+    background-color: black;
+}
+.container {
+    margin: 0;
+  }
+  
+  .header {
+    height: 300px;
+  }
+
+.Me{
+    width: 250px;
+    border-top-right-radius: 10%;
+    border-top-left-radius: 10%;
+    margin-bottom: -5px;
+}
+.buttons{
+  display: inline-block;
+  align-items: center;
+  letter-spacing: 400%;
+  color: gray;
+}
+
+.email{
+    margin-right: 30px;
+    margin-left: 10px;
+    padding-right: 10px;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 8px solid white;
+    background-color: white;
+    display: inline-block;
+}
+.email:hover{
+  opacity: 0.7;
+}
+
+.linkedin{
+  color: white;
+  background-color: #4d88ff;
+  border-radius: 10px;
+  font-weight: bold;
+  border: 8px solid #4d88ff;
+  background-color: #4d88ff;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.linkedin:hover{
+  opacity: 0.7;
+}
+.name{
+  color: white;
+  margin-top: 0px;
+  padding-top: 15px;
+  font-size: 22px;
+}
+.do{
+  color:  #ffa366;
+  font-size: 15px;
+}
+.website{
+  display: relative;
+  margin-top: 20px;
+  color: #ffa366 ;
+  font-size: 12px;
+  align-items: center;
+  margin-bottom: 0px;
+  }
+  
+  .eimg{
+   align-items: center;
+   width: 20px;
+   height: 20px;
+   margin-right: 7px;
+   margin-top: 2px;
+   margin-bottom: -4px;
+  }
+
+  .elink{
+    align-items: center;
+   width: 22px;
+   height: 20px;
+   margin-right: 5px;
+   margin-top: 2px;
+   margin-bottom: -4px;
+   padding-right: 4px;
+  }
